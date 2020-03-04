@@ -1,0 +1,8 @@
+Concept Code,Concept Name,Display Name (en),Display Name (fr),Status,Definition,Last Updated,
+26643006,oral route (qualifier value),Oral: PO,voie orale,active,Oral,18/07/2019,
+34206005,subcutaneous route (qualifier value),Subcutaneous: SC,voie subcutanée,active,Subcutaneous,18/07/2019,
+46713006,nasal route (qualifier value),Intranasal: IN,voie nasale,active,Intranasal,18/07/2019,
+47625008,intravenous route (qualifier value),Intravenous: IV,voie intraveineuse,active,Intravenous - For use with immune globulin products,18/07/2019,
+78421000,intramuscular route (qualifier value),Intramuscular: IM,voie intramusculaire,active,Intramuscular,18/07/2019,
+372464004,Intradermal route (qualifier value),Intradermal: ID,voie intradermique,active,Intradermal,18/07/2019,
+718329006,Infiltration route (qualifier value),Infiltrate,infiltrer,active,"Infiltrate - For use with passive immunizing agents, specifically for IG products applied to wounds",18/07/2019,

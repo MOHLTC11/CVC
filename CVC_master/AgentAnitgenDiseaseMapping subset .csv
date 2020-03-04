@@ -1,0 +1,348 @@
+Agent Concept Id,Agent Display Term (en),Agent Display Term (fr),Antigen Concept Id,Antigen Display Name (en),Antigen Display Name (fr),Disease Concept Id,Disease Display Name (en),Disease Display Name (fr)
+111164008,[IPV / OPV] Polio,[VPI / VPO] Polio,713616004,Poliomyelitis antigen,antigène de poliovirus,398102009,Poliomyelitis,poliomyélite
+11866009,[PLAG] Plague,[PEST] peste,709155002,Plague antigen,antigène de la peste,58750007,Plague,peste
+125688000,[IPV] Inactive Polio,[VPI] Polio Inactivé,8301000087103,Inactivated poliomyelitis antigen,antigène de la polio inactivé,398102009,Poliomyelitis,poliomyélite
+125690004,[OPV] Polio live (oral),[VPO] Virus de la Polio Vivant,713620000,Live poliomyelitis antigen,antigène de la polio vivant,398102009,Poliomyelitis,poliomyélite
+125714002,[Pneu-C-7] Pneumococcal conjugate 7,[Pneu-C-7] Pneumocoque Conjugué 7,714078004,Pneumococcal conjugate antigen,antigène du pneumocoque conjugué,16814004,Pneumococcal disease,infection pneumococcique
+135642004,[Pneu-P] Pneumococcal polysaccharide,[Pneu-P] Pneumocoque Polysaccharidique,115578007,Pneumococcal polysaccharide antigen,antigène polysaccharidique du pneumocoque,16814004,Pneumococcal disease,infection pneumococcique
+14745005,[HA] Hepatitis A,[HA] hépatite A,713618003,Hepatitis A antigen,antigène de l'hépatite A,40468003,Hepatitis A,hépatite A
+19371000087102,[HA] Hepatitis A,[HA] hépatite A,19341000087105,Hepatitis A antigen regular strength,antigène de l'hépatite A formulation régulière,40468003,Hepatitis A,hépatite A
+19401000087100,[Inf] Influenza quadrivalent,[Inf] influenza quadrivalent,260210008,Influenza virus antigen,antigène du virus influenza,6142004,Influenza,influenza
+19461000087101,[Men-B] Meningococcal B,[Men-B] méningocoque B,121080001,Meningococcal group B antigen,antigène du méningocoque du sérogroupe B,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+20591000087106,[DPT-HB-Hib] Diphtheria + Pertussis + Tetanus + Hepatitis B + Hib,[DCT-HB-Hib] diphtérie + coqueluche + tétanos + hépatite B + Hib,8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+20591000087106,[DPT-HB-Hib] Diphtheria + Pertussis + Tetanus + Hepatitis B + Hib,[DCT-HB-Hib] diphtérie + coqueluche + tétanos + hépatite B + Hib,8631000087100,Pertussis antigen standard dose,antigène coquelucheux dose standard,27836007,Pertussis,coqueluche
+20591000087106,[DPT-HB-Hib] Diphtheria + Pertussis + Tetanus + Hepatitis B + Hib,[DCT-HB-Hib] diphtérie + coqueluche + tétanos + hépatite B + Hib,8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+20591000087106,[DPT-HB-Hib] Diphtheria + Pertussis + Tetanus + Hepatitis B + Hib,[DCT-HB-Hib] diphtérie + coqueluche + tétanos + hépatite B + Hib,19381000087100,Hepatitis B antigen pediatric strength,antigène de l'hépatite B formulation pédiatrique,66071002,Hepatitis B,hépatite B
+20591000087106,[DPT-HB-Hib] Diphtheria + Pertussis + Tetanus + Hepatitis B + Hib,[DCT-HB-Hib] diphtérie + coqueluche + tétanos + hépatite B + Hib,120975003,Haemophilus influenzae type B antigen,antigène d'Haemophilus influenzae type B,406583002,"Haemophilus influenzae infection, invasive",infection invasive à Haemophilus influenzae
+20601000087103,[DPT-HB] Diphtheria + Pertussis + Tetanus + Hepatitis B,[DCT-HB] diphtérie + coqueluche + tétanos + hépatite B,8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+20601000087103,[DPT-HB] Diphtheria + Pertussis + Tetanus + Hepatitis B,[DCT-HB] diphtérie + coqueluche + tétanos + hépatite B,8631000087100,Pertussis antigen standard dose,antigène coquelucheux dose standard,27836007,Pertussis,coqueluche
+20601000087103,[DPT-HB] Diphtheria + Pertussis + Tetanus + Hepatitis B,[DCT-HB] diphtérie + coqueluche + tétanos + hépatite B,8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+20601000087103,[DPT-HB] Diphtheria + Pertussis + Tetanus + Hepatitis B,[DCT-HB] diphtérie + coqueluche + tétanos + hépatite B,19381000087100,Hepatitis B antigen pediatric strength,antigène de l'hépatite B formulation pédiatrique,66071002,Hepatitis B,hépatite B
+20641000087100,[DTaP-HB-IPV] Diphtheria + Tetanus + Pertussis + Hepatitis B + Polio,[DCaT-HB-VPI] diphtérie + coqueluche acellulaire + tétanos + hépatite B + polio inactivé,8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+20641000087100,[DTaP-HB-IPV] Diphtheria + Tetanus + Pertussis + Hepatitis B + Polio,[DCaT-HB-VPI] diphtérie + coqueluche acellulaire + tétanos + hépatite B + polio inactivé,8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+20641000087100,[DTaP-HB-IPV] Diphtheria + Tetanus + Pertussis + Hepatitis B + Polio,[DCaT-HB-VPI] diphtérie + coqueluche acellulaire + tétanos + hépatite B + polio inactivé,8601000087108,Acellular pertussis antigen standard dose,antigène coquelucheux acellulaire dose standard,27836007,Pertussis,coqueluche
+20641000087100,[DTaP-HB-IPV] Diphtheria + Tetanus + Pertussis + Hepatitis B + Polio,[DCaT-HB-VPI] diphtérie + coqueluche acellulaire + tétanos + hépatite B + polio inactivé,19381000087100,Hepatitis B antigen pediatric strength,antigène de l'hépatite B formulation pédiatrique,66071002,Hepatitis B,hépatite B
+20641000087100,[DTaP-HB-IPV] Diphtheria + Tetanus + Pertussis + Hepatitis B + Polio,[DCaT-HB-VPI] diphtérie + coqueluche acellulaire + tétanos + hépatite B + polio inactivé,8301000087103,Inactivated poliomyelitis antigen,antigène de la polio inactivé,398102009,Poliomyelitis,poliomyélite
+20681000087105,[Men-C-CY-Hib] Meningococcal conjugate C + Y + Hib,[Men-C-CY-Hib] meningoccoque C + Y conjugué + Hib,21901000087102,,,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+20681000087105,[Men-C-CY-Hib] Meningococcal conjugate C + Y + Hib,[Men-C-CY-Hib] meningoccoque C + Y conjugué + Hib,120975003,Haemophilus influenzae type B antigen,antigène d'Haemophilus influenzae type B,406583002,"Haemophilus influenzae infection, invasive",infection invasive à Haemophilus influenzae
+20861000087100,[HPV-9] Human Papillomavirus,[VPH-9] virus du papillome humain nonavalent,20861000087100,,,240532009,Human papilloma virus infection,infection par le virus du papillome humain
+21721000087105,[Men-C-AC] Meningococcal conjugate A + C,[Men-C-AC] méningocoque A + C conjugué,21721000087105,,,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+21901000087102,[Men-C-CY] Meningococcal conjugate C + Y,[Men-C-CY] méningocoque C + Y conjugué,21901000087102,,,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+21921000087108,[Inf] Influenza trivalent high-dose,[Inf] antigrippal trivalent haute dose,260210008,Influenza virus antigen,antigène du virus influenza,6142004,Influenza,influenza
+23001000087100,[Zos] Zoster (Shingles) non-live,[Zos] Zona non vivant,260214004,Varicella-zoster virus antigen,antigène du virus varicella-zoster,4740000,Shingles,zona
+33234009,[Sma] Smallpox,[Sma] variole,713631008,Smallpox antigen,antigène de la variole,67924001,Smallpox,variole
+333521006,[Anth] Anthrax,[Anth] Anthrax,409629009,Anthrax antigen,antigène du charbon,409498004,Anthrax,maladie du charbon
+333598008,[Pneu] Pneumococcal,[Pneu] Pneumocoque,120985002,Pneumococcal antigen,antigène du pneumocoque,16814004,Pneumococcal disease,infection pneumococcique
+333621002,[T] Tetanus,[T] Tétanos,8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+333680004,[Hib] Hib - Haemophilus influenzae type b,[Hib] Hib - Haemophilus influenzae de type b,120975003,Haemophilus influenzae type B antigen,antigène d'Haemophilus influenzae type B,406583002,"Haemophilus influenzae infection, invasive",infection invasive à Haemophilus influenzae
+333697005,[JE] Japanese Encephalitis,[EJ] Encéphalite Japonaise,121027000,Japanese encephalitis virus antigen,antigène du virus de l'encéphalite japonaise,52947006,"Encephalitis, Japanese",encéphalite japonaise
+333699008,[TBE] Tick-borne Encephalitis,[ET] Encéphalite Transmise par Tiques,8351000087102,Tick-borne encephalitis antigen,antigène du virus de l'encéphalite à tiques,712986001,Tickborne encephalitis,encéphalite à tiques
+333702001,[HAHB] Hepatitis A + B,[HAHB] Hépatite A + B,303233001,Hepatitis B antigen,antigène de l'hépatite B,66071002,Hepatitis B,hépatite B
+333702001,[HAHB] Hepatitis A + B,[HAHB] Hépatite A + B,713618003,Hepatitis A antigen,antigène de l'hépatite A,40468003,Hepatitis A,hépatite A
+333707007,[HA-Typh-I] Hepatitis A + Typhoid,[HA-Typh-I] Hépatite A + Typhoïde Injectable,8471000087100,Vi polysaccharide typhoid antigen,antigène de la typhoïde polysaccharidique Vi,4834000,Typhoid fever,fièvre typhoïde
+333707007,[HA-Typh-I] Hepatitis A + Typhoid,[HA-Typh-I] Hépatite A + Typhoïde Injectable,19341000087105,Hepatitis A antigen regular strength,antigène de l'hépatite A formulation régulière,40468003,Hepatitis A,hépatite A
+346639000,[Typh-I] Typhoid polysaccharide injectable,[Typh-I] Typhoïde Polysaccharidique Injectable,8471000087100,Vi polysaccharide typhoid antigen,antigène de la typhoïde polysaccharidique Vi,4834000,Typhoid fever,fièvre typhoïde
+346696005,[Typh-O] Typhoid live oral,[Typh-O] Typhoïde Oral Vivant,8461000087109,Typhoid live attenuated Ty21a antigen,antigène de la typhoïde vivant Ty21a,4834000,Typhoid fever,fièvre typhoïde
+34689006,[HB] Hepatitis B,[HB] hépatite B,303233001,Hepatitis B antigen,antigène de l'hépatite B,66071002,Hepatitis B,hépatite B
+3526007,[Rab] Rabies,[Rage] Rage,120980007,Rabies virus antigen,antigène du virus de la rage,14168008,Rabies,rage
+35736007,[Chol] Cholera,[Chol] choléra,709157005,Cholera antigen,antigène du choléra,63650001,Cholera,choléra
+359068008,[Men-C-C] Meningococcal conjugate C,[Men-C-C] Méningocoque C Conjugué,716266006,Meningococcal conjugate group C antigen,antigène du méningocoque conjugué du sérogroupe C,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+386013003,[R] Rubella,[R] Rubéole,120998006,Rubella virus antigen,antigène du virus de la rubéole,36653000,Rubella,rubéole
+407737004,[Zos] Zoster (Shingles),[Zos] Zona,260214004,Varicella-zoster virus antigen,antigène du virus varicella-zoster,4740000,Shingles,zona
+418268006,[BCG] Bacillus Calmette Guerin,[BCG] Bacillus Calmette Guerin,718280005,Bacillus Calmette-Guerin antigen,antigène de Mycobacterium tuberculosis,56717001,Tuberculosis,tuberculose
+419550004,[MMR-Var] Measles + Mumps + Rubella + Varicella,[RRO-Var] Rougeole + Rubéole + Oreillons + Varicelle,121087003,Mumps virus antigen,antigène du virus des oreillons,36989005,Mumps,oreillons
+419550004,[MMR-Var] Measles + Mumps + Rubella + Varicella,[RRO-Var] Rougeole + Rubéole + Oreillons + Varicelle,120998006,Rubella virus antigen,antigène du virus de la rubéole,36653000,Rubella,rubéole
+420261000,[Men-ACYW-135] Meningococcal A+C+Y+W135,[Men-ACYW-135] méningocoque A+C+Y+W135,420261000,,,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+423531006,[Men] Meningococcal,[Men] Méningocoque,121077002,Meningococcal antigen,antigène du méningocoque,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+424519000,[HPV] Human Papillomavirus,[VPH] Virus du Papillome Humain,120996005,Human papillomavirus antigen,antigène du papillomavirus humain,240532009,Human papilloma virus infection,infection par le virus du papillome humain
+428214002,[D/d] Diphtheria,[D/d] Diphtérie,396417009,Diphtheria toxoid,anatoxine diphtérique,397428000,Diphtheria,diphtérie
+448964007,[Pneu-C-13] Pneumococcal conjugate 13,[Pneu-C-13] Pneumocoque Conjugué 13,714078004,Pneumococcal conjugate antigen,antigène du pneumocoque conjugué,16814004,Pneumococcal disease,infection pneumococcique
+449019003,[ap/aP] Pertussis,[ca/Ca] coqueluche,713610005,Acellular pertussis antigen,antigène coquelucheux acellulaire,27836007,Pertussis,coqueluche
+46233009,[Inf] Influenza,[Inf] influenza,260210008,Influenza virus antigen,antigène du virus influenza,6142004,Influenza,influenza
+56844000,[YF] Yellow Fever,[FJ] fièvre jaune,713629004,Yellow fever antigen,antigène du virus de la fièvre jaune,16541001,Yellow fever,fièvre jaune
+61153008,[MMR] Measles + Mumps + Rubella,[RRO] rougeole + rubéole + oreillons,121087003,Mumps virus antigen,antigène du virus des oreillons,36989005,Mumps,oreillons
+61153008,[MMR] Measles + Mumps + Rubella,[RRO] rougeole + rubéole + oreillons,120998006,Rubella virus antigen,antigène du virus de la rubéole,36653000,Rubella,rubéole
+61602008,[ap/aP/wP] Pertussis,[ca/Ca/C] coqueluche,121074009,Pertussis antigen,antigène coquelucheux,27836007,Pertussis,coqueluche
+6981000087108,[Inf] Influenza A monovalent,[Inf] influenza A monovalent,121006005,Influenza A antigen,antigène du virus de l'influenza A,6142004,Influenza,influenza
+7091000087106,[Men-P-AC] Meningococcal polysaccharide A+C,[Men-P-AC] méningocoque polysaccharidique A+C,7091000087106,,,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+7101000087101,[Men-P-ACYW-135] Meningococcal polysaccharide A+C+Y+W135,[Men-P-ACYW-135] méningocoque polysaccharidique A+C+Y+W135,7101000087101,,,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+7121000087107,[Men-C-ACYW-135] Meningococcal conjugate A+C+Y+W135,[Men-C-ACYW-135] méningocoque conjugué A+C+Y+W135,7121000087107,,,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+7251000087108,[Pneu-P-23] Pneumococcal polysaccharide 23,[Pneu-P-23] pneumocoque polysaccharidique 23,115578007,Pneumococcal polysaccharide antigen,antigène polysaccharidique du pneumocoque,16814004,Pneumococcal disease,infection pneumococcique
+7261000087106,[Pneu-C] Pneumococcal conjugate,[Pneu-C] pneumocoque conjugué,714078004,Pneumococcal conjugate antigen,antigène du pneumocoque conjugué,16814004,Pneumococcal disease,infection pneumococcique
+7281000087100,[MR] Measles + Rubella,[RR] rougeole + rubéole,120998006,Rubella virus antigen,antigène du virus de la rubéole,36653000,Rubella,rubéole
+7661000087108,[Pneu-C-10] Pneumococcal conjugate 10,[Pneu-C-10] pneumocoque conjugué 10,714078004,Pneumococcal conjugate antigen,antigène du pneumocoque conjugué,16814004,Pneumococcal disease,infection pneumococcique
+7691000087100,[Inf] Influenza trivalent,[Inf] influenza antigrippal trivalent,260210008,Influenza virus antigen,antigène du virus influenza,6142004,Influenza,influenza
+7701000087100,[D] Diphtheria,[D] Diphtérie,8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+7711000087103,[Men-P-A] Meningococcal polysaccharide A,[Men-P-A] méningocoque polysaccharidique A,716269004,Meningococcal polysaccharide group A antigen,antigène polysaccharidique du méningocoque du sérogroupe A,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+7721000087106,[Chol-Ecol-O] Cholera + E coli,[Chol-Ecol-O] choléra + E.Coli,709157005,Cholera antigen,antigène du choléra,63650001,Cholera,choléra
+7731000087108,[DTaP-HB-IPV-Hib] Diphtheria + Tetanus + Pertussis + Hepatitis B + Polio + Hib,[DCaT-HB-VPI-Hib] diphtérie + coqueluche acellulaire + tétanos + hépatite B+ polio inactivé + Hib,8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+7731000087108,[DTaP-HB-IPV-Hib] Diphtheria + Tetanus + Pertussis + Hepatitis B + Polio + Hib,[DCaT-HB-VPI-Hib] diphtérie + coqueluche acellulaire + tétanos + hépatite B+ polio inactivé + Hib,8601000087108,Acellular pertussis antigen standard dose,antigène coquelucheux acellulaire dose standard,27836007,Pertussis,coqueluche
+7731000087108,[DTaP-HB-IPV-Hib] Diphtheria + Tetanus + Pertussis + Hepatitis B + Polio + Hib,[DCaT-HB-VPI-Hib] diphtérie + coqueluche acellulaire + tétanos + hépatite B+ polio inactivé + Hib,19381000087100,Hepatitis B antigen pediatric strength,antigène de l'hépatite B formulation pédiatrique,66071002,Hepatitis B,hépatite B
+7731000087108,[DTaP-HB-IPV-Hib] Diphtheria + Tetanus + Pertussis + Hepatitis B + Polio + Hib,[DCaT-HB-VPI-Hib] diphtérie + coqueluche acellulaire + tétanos + hépatite B+ polio inactivé + Hib,8301000087103,Inactivated poliomyelitis antigen,antigène de la polio inactivé,398102009,Poliomyelitis,poliomyélite
+7731000087108,[DTaP-HB-IPV-Hib] Diphtheria + Tetanus + Pertussis + Hepatitis B + Polio + Hib,[DCaT-HB-VPI-Hib] diphtérie + coqueluche acellulaire + tétanos + hépatite B+ polio inactivé + Hib,120975003,Haemophilus influenzae type B antigen,antigène d'Haemophilus influenzae type B,406583002,"Haemophilus influenzae infection, invasive",infection invasive à Haemophilus influenzae
+7731000087108,[DTaP-HB-IPV-Hib] Diphtheria + Tetanus + Pertussis + Hepatitis B + Polio + Hib,[DCaT-HB-VPI-Hib] diphtérie + coqueluche acellulaire + tétanos + hépatite B+ polio inactivé + Hib,8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+7741000087102,[d] Diphtheria,[d] diphtérie,8611000087105,Diphtheria toxoid low dose,anatoxine diphtérique dose réduite,397428000,Diphtheria,diphtérie
+7751000087104,[T-IPV] Tetanus + Polio,[T-VPI] tétanos + polio inactivé,8301000087103,Inactivated poliomyelitis antigen,antigène de la polio inactivé,398102009,Poliomyelitis,poliomyélite
+7751000087104,[T-IPV] Tetanus + Polio,[T-VPI] tétanos + polio inactivé,8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+7761000087101,[wP] Pertussis whole cell pediatric,[C] coqueluche à germes entiers pédiatrique,714076000,Whole cell pertussis antigen,antigène coquelucheux à germes entiers,27836007,Pertussis,coqueluche
+7771000087105,[aP] Pertussis,[Ca] coqueluche,8601000087108,Acellular pertussis antigen standard dose,antigène coquelucheux acellulaire dose standard,27836007,Pertussis,coqueluche
+7781000087107,[ap] Pertussis,[ca] coqueluche,8591000087100,Acellular pertussis antigen low dose,antigène coquelucheux acellulaire dose réduite,27836007,Pertussis,coqueluche
+7791000087109,[HPV-2] Human Papillomavirus (HPV-2),[VPH-2] virus du papillome humain bivalent,7791000087109,,,240532009,Human papilloma virus infection,infection par le virus du papillome humain
+7801000087108,[HPV-4] Human Papillomavirus (HPV-4),[VPH-4] virus du papillome humain quadrivalent,7801000087108,,,240532009,Human papilloma virus infection,infection par le virus du papillome humain
+7831000087100,[DPT] Diphtheria + Pertussis + Tetanus,[DCT] diphtérie + coqueluche + tétanos,8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+7831000087100,[DPT] Diphtheria + Pertussis + Tetanus,[DCT] diphtérie + coqueluche + tétanos,8631000087100,Pertussis antigen standard dose,antigène coquelucheux dose standard,27836007,Pertussis,coqueluche
+7831000087100,[DPT] Diphtheria + Pertussis + Tetanus,[DCT] diphtérie + coqueluche + tétanos,8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+7851000087109,[Tdap] Tetanus + Diphtheria + Pertussis,[dcaT] diphtérie + coqueluche acellulaire + tétanos,8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+7851000087109,[Tdap] Tetanus + Diphtheria + Pertussis,[dcaT] diphtérie + coqueluche acellulaire + tétanos,8611000087105,Diphtheria toxoid low dose,anatoxine diphtérique dose réduite,397428000,Diphtheria,diphtérie
+7851000087109,[Tdap] Tetanus + Diphtheria + Pertussis,[dcaT] diphtérie + coqueluche acellulaire + tétanos,8591000087100,Acellular pertussis antigen low dose,antigène coquelucheux acellulaire dose réduite,27836007,Pertussis,coqueluche
+7861000087107,[DPTP] Diphtheria + Pertussis + Tetanus + Polio,[DCT-Polio] diphtérie + coqueluche + tétanos + polio,8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+7861000087107,[DPTP] Diphtheria + Pertussis + Tetanus + Polio,[DCT-Polio] diphtérie + coqueluche + tétanos + polio,8631000087100,Pertussis antigen standard dose,antigène coquelucheux dose standard,27836007,Pertussis,coqueluche
+7861000087107,[DPTP] Diphtheria + Pertussis + Tetanus + Polio,[DCT-Polio] diphtérie + coqueluche + tétanos + polio,8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+7861000087107,[DPTP] Diphtheria + Pertussis + Tetanus + Polio,[DCT-Polio] diphtérie + coqueluche + tétanos + polio,713616004,Poliomyelitis antigen,antigène de poliovirus,398102009,Poliomyelitis,poliomyélite
+7871000087103,[DPT-IPV] Diphtheria + Pertussis + Tetanus + Polio,[DCT-VPI] diphtérie + coqueluche + tétanos + polio inactivé,8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+7871000087103,[DPT-IPV] Diphtheria + Pertussis + Tetanus + Polio,[DCT-VPI] diphtérie + coqueluche + tétanos + polio inactivé,8631000087100,Pertussis antigen standard dose,antigène coquelucheux dose standard,27836007,Pertussis,coqueluche
+7871000087103,[DPT-IPV] Diphtheria + Pertussis + Tetanus + Polio,[DCT-VPI] diphtérie + coqueluche + tétanos + polio inactivé,8301000087103,Inactivated poliomyelitis antigen,antigène de la polio inactivé,398102009,Poliomyelitis,poliomyélite
+7871000087103,[DPT-IPV] Diphtheria + Pertussis + Tetanus + Polio,[DCT-VPI] diphtérie + coqueluche + tétanos + polio inactivé,8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+7881000087101,[DTaP-IPV] Diphtheria + Tetanus + Pertussis + Polio,[DCaT-VPI] diphtérie + coqueluche acellulaire + tétanos + polio inactivé,8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+7881000087101,[DTaP-IPV] Diphtheria + Tetanus + Pertussis + Polio,[DCaT-VPI] diphtérie + coqueluche acellulaire + tétanos + polio inactivé,8601000087108,Acellular pertussis antigen standard dose,antigène coquelucheux acellulaire dose standard,27836007,Pertussis,coqueluche
+7881000087101,[DTaP-IPV] Diphtheria + Tetanus + Pertussis + Polio,[DCaT-VPI] diphtérie + coqueluche acellulaire + tétanos + polio inactivé,8301000087103,Inactivated poliomyelitis antigen,antigène de la polio inactivé,398102009,Poliomyelitis,poliomyélite
+7881000087101,[DTaP-IPV] Diphtheria + Tetanus + Pertussis + Polio,[DCaT-VPI] diphtérie + coqueluche acellulaire + tétanos + polio inactivé,8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+7891000087104,[Tdap-IPV] Tetanus + Diphtheria + Pertussis + Polio,[dcaT-VPI] diphtérie + coqueluche acellulaire + tétanos + polio inactivé,8611000087105,Diphtheria toxoid low dose,anatoxine diphtérique dose réduite,397428000,Diphtheria,diphtérie
+7891000087104,[Tdap-IPV] Tetanus + Diphtheria + Pertussis + Polio,[dcaT-VPI] diphtérie + coqueluche acellulaire + tétanos + polio inactivé,8591000087100,Acellular pertussis antigen low dose,antigène coquelucheux acellulaire dose réduite,27836007,Pertussis,coqueluche
+7891000087104,[Tdap-IPV] Tetanus + Diphtheria + Pertussis + Polio,[dcaT-VPI] diphtérie + coqueluche acellulaire + tétanos + polio inactivé,8301000087103,Inactivated poliomyelitis antigen,antigène de la polio inactivé,398102009,Poliomyelitis,poliomyélite
+7891000087104,[Tdap-IPV] Tetanus + Diphtheria + Pertussis + Polio,[dcaT-VPI] diphtérie + coqueluche acellulaire + tétanos + polio inactivé,8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+7901000087103,[DT-IPV] Diphtheria + Tetanus + Polio,[DT-VPI] diphtérie + tétanos + polio inactivé,8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+7901000087103,[DT-IPV] Diphtheria + Tetanus + Polio,[DT-VPI] diphtérie + tétanos + polio inactivé,8301000087103,Inactivated poliomyelitis antigen,antigène de la polio inactivé,398102009,Poliomyelitis,poliomyélite
+7901000087103,[DT-IPV] Diphtheria + Tetanus + Polio,[DT-VPI] diphtérie + tétanos + polio inactivé,8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+7921000087109,[DT] Diphtheria + Tetanus,[DT] diphtérie + tétanos,8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+7921000087109,[DT] Diphtheria + Tetanus,[DT] diphtérie + tétanos,8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+7931000087106,[DTaP-IPV-Hib] Diphtheria + Tetanus + Pertussis + Polio + Hib,[DCaT-VPI-Hib] diphtérie + coqueluche acellulaire + tétanos + polio inactivé + Hib,8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+7931000087106,[DTaP-IPV-Hib] Diphtheria + Tetanus + Pertussis + Polio + Hib,[DCaT-VPI-Hib] diphtérie + coqueluche acellulaire + tétanos + polio inactivé + Hib,8601000087108,Acellular pertussis antigen standard dose,antigène coquelucheux acellulaire dose standard,27836007,Pertussis,coqueluche
+7931000087106,[DTaP-IPV-Hib] Diphtheria + Tetanus + Pertussis + Polio + Hib,[DCaT-VPI-Hib] diphtérie + coqueluche acellulaire + tétanos + polio inactivé + Hib,8301000087103,Inactivated poliomyelitis antigen,antigène de la polio inactivé,398102009,Poliomyelitis,poliomyélite
+7931000087106,[DTaP-IPV-Hib] Diphtheria + Tetanus + Pertussis + Polio + Hib,[DCaT-VPI-Hib] diphtérie + coqueluche acellulaire + tétanos + polio inactivé + Hib,120975003,Haemophilus influenzae type B antigen,antigène d'Haemophilus influenzae type B,406583002,"Haemophilus influenzae infection, invasive",infection invasive à Haemophilus influenzae
+7931000087106,[DTaP-IPV-Hib] Diphtheria + Tetanus + Pertussis + Polio + Hib,[DCaT-VPI-Hib] diphtérie + coqueluche acellulaire + tétanos + polio inactivé + Hib,8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+8211000087108,[DPT-Hib] Diphtheria + Pertussis + Tetanus + Hib,[DCT-Hib] diphtérie + coqueluche + tétanos + Hib,8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+8211000087108,[DPT-Hib] Diphtheria + Pertussis + Tetanus + Hib,[DCT-Hib] diphtérie + coqueluche + tétanos + Hib,8631000087100,Pertussis antigen standard dose,antigène coquelucheux dose standard,27836007,Pertussis,coqueluche
+8211000087108,[DPT-Hib] Diphtheria + Pertussis + Tetanus + Hib,[DCT-Hib] diphtérie + coqueluche + tétanos + Hib,120975003,Haemophilus influenzae type B antigen,antigène d'Haemophilus influenzae type B,406583002,"Haemophilus influenzae infection, invasive",infection invasive à Haemophilus influenzae
+8211000087108,[DPT-Hib] Diphtheria + Pertussis + Tetanus + Hib,[DCT-Hib] diphtérie + coqueluche + tétanos + Hib,8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+8221000087100,[DPTP-Hib] Diphtheria + Pertussis + Tetanus + Polio + Hib,[DCTP-Hib] diphtérie + coqueluche + tétanos + polio + Hib,8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+8221000087100,[DPTP-Hib] Diphtheria + Pertussis + Tetanus + Polio + Hib,[DCTP-Hib] diphtérie + coqueluche + tétanos + polio + Hib,8631000087100,Pertussis antigen standard dose,antigène coquelucheux dose standard,27836007,Pertussis,coqueluche
+8221000087100,[DPTP-Hib] Diphtheria + Pertussis + Tetanus + Polio + Hib,[DCTP-Hib] diphtérie + coqueluche + tétanos + polio + Hib,120975003,Haemophilus influenzae type B antigen,antigène d'Haemophilus influenzae type B,406583002,"Haemophilus influenzae infection, invasive",infection invasive à Haemophilus influenzae
+8221000087100,[DPTP-Hib] Diphtheria + Pertussis + Tetanus + Polio + Hib,[DCTP-Hib] diphtérie + coqueluche + tétanos + polio + Hib,8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+8221000087100,[DPTP-Hib] Diphtheria + Pertussis + Tetanus + Polio + Hib,[DCTP-Hib] diphtérie + coqueluche + tétanos + polio + Hib,713616004,Poliomyelitis antigen,antigène de poliovirus,398102009,Poliomyelitis,poliomyélite
+8231000087103,[Men-C] Meningococcal conjugate,[Men-C] méningocoque conjugué,715978009,Meningococcal conjugate antigen,antigène du méningocoque conjugué,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+8241000087109,[Men-P] Meningococcal polysaccharide,[Men-P] méningocoque polysaccharidique,715979001,Meningococcal polysaccharide antigen,antigène polysaccharidique du méningocoque,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+8771000087109,[HB] Hepatitis B,[HB] hépatite B,8731000087107,Hepatitis B antigen regular strength,antigène de l'hépatite B formulation régulière,66071002,Hepatitis B,hépatite B
+8781000087106,[HB] Hepatitis B dialysis strength,[HB] hépatite B formulation pour dialyse,8741000087101,Hepatitis B antigen dialysis strength,antigène de l'hépatite B formulation pour dialyse,66071002,Hepatitis B,hépatite B
+89428009,[Typh] Typhoid,[Typh] tyhphoïde,8361000087104,Typhoid antigen,antigène de la typhoïde,4834000,Typhoid fever,fièvre typhoïde
+90043005,[Mu] Mumps,[O] oreillons,121087003,Mumps virus antigen,antigène du virus des oreillons,36989005,Mumps,oreillons
+24371000087105,[HAHB] Hepatitis A + B unspecified,[HAHB] Hepatitis A + B non spécifié,713618003,Hepatitis A antigen,antigène de l'hépatite A,40468003,Hepatitis A,hépatite A
+24371000087105,[HAHB] Hepatitis A + B unspecified,[HAHB] Hepatitis A + B non spécifié,303233001,Hepatitis B antigen,antigène de l'hépatite B,66071002,Hepatitis B,hépatite B
+9801000087100,[HAHB] Hepatitis A + B pediatric,[HAHB] Hépatite A + B pédiatrique,19451000087104,Hepatitis A antigen pediatric strength,antigène de l'hépatite A formulation pédiatrique,40468003,Hepatitis A,hépatite A
+9801000087100,[HAHB] Hepatitis A + B pediatric,[HAHB] Hépatite A + B pédiatrique,19381000087100,Hepatitis B antigen pediatric strength,antigène de l'hépatite B formulation pédiatrique,66071002,Hepatitis B,hépatite B
+9811000087103,[HA] Hepatitis A pediatric,[HA] hépatite A pédiatrique,19451000087104,Hepatitis A antigen pediatric strength,antigène de l'hépatite A formulation pédiatrique,40468003,Hepatitis A,hépatite A
+9831000087108,[HB] Hepatitis B pediatric,[HB] hépatite B pédiatrique,19381000087100,Hepatitis B antigen pediatric strength,antigène de l'hépatite B formulation pédiatrique,66071002,Hepatitis B,hépatite B
+426971004,[Hib-HB] Hib - Haemophilus influenzae type b + Hepatitis B pediatric,[Hib-HB] Hib + hépatite B,120975003,Haemophilus influenzae type B antigen,antigène d'Haemophilus influenzae type B,406583002,"Haemophilus influenzae infection, invasive",infection invasive à Haemophilus influenzae
+426971004,[Hib-HB] Hib - Haemophilus influenzae type b + Hepatitis B pediatric,[Hib-HB] Hib + hépatite B,19381000087100,Hepatitis B antigen pediatric strength,antigène de l'hépatite B formulation pédiatrique,66071002,Hepatitis B,hépatite B
+23681000087100,[DTwP-HB] Diptheria + Tetanus + Pertussis whole cell + Hepatitis B pediatric ,[DTCPT-HB] diphtérie + tétanos + coqueluche + hépatite B pédiatrique,8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+23681000087100,[DTwP-HB] Diptheria + Tetanus + Pertussis whole cell + Hepatitis B pediatric ,[DTCPT-HB] diphtérie + tétanos + coqueluche + hépatite B pédiatrique,8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+23681000087100,[DTwP-HB] Diptheria + Tetanus + Pertussis whole cell + Hepatitis B pediatric ,[DTCPT-HB] diphtérie + tétanos + coqueluche + hépatite B pédiatrique,714076000,Whole cell pertussis antigen,antigène coquelucheux à germes entiers,27836007,Pertussis,coqueluche
+23681000087100,[DTwP-HB] Diptheria + Tetanus + Pertussis whole cell + Hepatitis B pediatric ,[DTCPT-HB] diphtérie + tétanos + coqueluche + hépatite B pédiatrique,19381000087100,Hepatitis B antigen pediatric strength,antigène de l'hépatite B formulation pédiatrique,66071002,Hepatitis B,hépatite B
+23701000087103,[DTaP-Hib] Diphtheria + Tetanus + Pertussis + Haemophilus influenzae type b pediatric ,[DCaT-Hib] diphtérie + coqueluche acellulaire + tétanos + Hib,8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+23701000087103,[DTaP-Hib] Diphtheria + Tetanus + Pertussis + Haemophilus influenzae type b pediatric ,[DCaT-Hib] diphtérie + coqueluche acellulaire + tétanos + Hib,8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+23701000087103,[DTaP-Hib] Diphtheria + Tetanus + Pertussis + Haemophilus influenzae type b pediatric ,[DCaT-Hib] diphtérie + coqueluche acellulaire + tétanos + Hib,8601000087108,Acellular pertussis antigen standard dose,antigène coquelucheux acellulaire dose standard,27836007,Pertussis,coqueluche
+23701000087103,[DTaP-Hib] Diphtheria + Tetanus + Pertussis + Haemophilus influenzae type b pediatric ,[DCaT-Hib] diphtérie + coqueluche acellulaire + tétanos + Hib,120975003,Haemophilus influenzae type B antigen,antigène d'Haemophilus influenzae type B,406583002,"Haemophilus influenzae infection, invasive",infection invasive à Haemophilus influenzae
+86080005,[BAtx] Botulinum antitoxin,[AtxB] Antitoxine botulinique,385336006,Botulism antitoxin,Botulism antitoxin,414531002,Intoxication with Clostridium botulinum toxin,botulisme
+21911000087100,[BAtx] Botulism antitoxin heptavalent,[AtxB] antitoxine botulinique heptavalent,21911000087100,,,414531002,Intoxication with Clostridium botulinum toxin,botulisme
+416653007,[BIG-IV] Botulism immunoglobulin,[BIG-IV] immunoglobuline botulinique,385336006,Botulism antitoxin,Botulism antitoxin,414531002,Intoxication with Clostridium botulinum toxin,botulisme
+9778000,[CMVIg] Cytomegalovirus immunoglobulin,[CMVIg] Immunoglobuline anti-cytomégalovirus,120941004,Cytomegalovirus immunoglobulin,Cytomegalovirus immunoglobulin,28944009,Cytomegalovirus disease,infection à cytomégalovirus
+77048008,[Datx] Diphtheria antitoxin,[AtxD] antitoxine diphtérique,412175006,Diphtheria antitoxin,Diphtheria antitoxin,397428000,Diphtheria,diphtérie
+9542007,[HBIg] Hepatitis B immunoglobulin,[HBIg] immunoglobuline antihépatique B,418747006,Hepatitis B immunoglobulin,Hepatitis B immunoglobulin,66071002,Hepatitis B,hépatite B
+333711001,[Ig] Immune globulin,[Ig] immunoglobuline,420084002,Immune globulin,Immune globulin,14189004,Measles,rougeole
+108725001,[RSVAb] Respiratory syncytial virus monoclonal antibody,[RSVAc] Anticorps monoclonal contre le virus respiratoire syncytial,386900007,Respiratory syncytial virus monoclonal antibody,Respiratory syncytial virus monoclonal antibody,55735004,Respiratory syncytial virus infection,virus respiratoire syncytial
+80834004,[RabIg] Rabies immunoglobulin,[RIg] Immunoglobuline antirabique,422303009,Rabies immunoglobulin,Rabies immunoglobulin,14168008,Rabies,rage
+108723008,[RSVAb] Respiratory syncytial virus immunoglobulin,[RSVAc] immunoglobuline contre le virus respiratoire syncytial,386900007,Respiratory syncytial virus monoclonal antibody,Respiratory syncytial virus monoclonal antibody,55735004,Respiratory syncytial virus infection,virus respiratoire syncytial
+86337009,[Tig] Tetanus immunoglobulin,[Tig] immunoglobuline antitétanique,428527002,Tetanus immunoglobulin,Tetanus immunoglobulin,76902006,Tetanus,tétanos
+79873000,[VIG] Vaccinia immune globulin,[VIG] Immunoglobuline antivaccinale,713631008,Smallpox antigen,antigène de la variole,67924001,Smallpox,variole
+62294009,[VarIG] Varicella immunoglobulin,[VarIG] immunoglobuline antivaricelleuse-antizostérienne,259858000,Varicella immunoglobulin,Varicella immunoglobulin,38907003,Varicella,varicelle
+409269001,[LAIV] Intranasal influenza live virus ,[VVAI],260210008,Influenza virus antigen,antigène du virus influenza,6142004,Influenza,influenza
+24371000087105,[HAHB] Hepatitis A + B unspecified,[HAHB] Hepatitis A + B non spécifié,713618003,Hepatitis A antigen,antigène de l'hépatite A,40468003,Hepatitis A,hépatite A
+24371000087105,[HAHB] Hepatitis A + B unspecified,[HAHB] Hepatitis A + B non spécifié,303233001,Hepatitis B antigen,antigène de l'hépatite B,66071002,Hepatitis B,hépatite B
+407746005,[Zos-Live] Zoster (Shingles) live,[Zona-vivant] Zona vivant,260214004,Varicella-zoster virus antigen,antigène du virus varicella-zoster,4740000,Shingles,zona
+7031000087105,Act-HIB® (Hib),Act-HIB® (Hib),120975003,Haemophilus influenzae type B antigen,antigène d'Haemophilus influenzae type B,406583002,"Haemophilus influenzae infection, invasive",infection invasive à Haemophilus influenzae
+7431000087103,Adacel® (Tdap),Adacel® (dcaT),8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+7431000087103,Adacel® (Tdap),Adacel® (dcaT),8611000087105,Diphtheria toxoid low dose,anatoxine diphtérique dose réduite,397428000,Diphtheria,diphtérie
+7431000087103,Adacel® (Tdap),Adacel® (dcaT),8591000087100,Acellular pertussis antigen low dose,antigène coquelucheux acellulaire dose réduite,27836007,Pertussis,coqueluche
+7481000087104,Adacel®-Polio (Tdap-IPV),Adacel®-Polio (dcaT-VPI),8611000087105,Diphtheria toxoid low dose,anatoxine diphtérique dose réduite,397428000,Diphtheria,diphtérie
+7481000087104,Adacel®-Polio (Tdap-IPV),Adacel®-Polio (dcaT-VPI),8591000087100,Acellular pertussis antigen low dose,antigène coquelucheux acellulaire dose réduite,27836007,Pertussis,coqueluche
+7481000087104,Adacel®-Polio (Tdap-IPV),Adacel®-Polio (dcaT-VPI),8301000087103,Inactivated poliomyelitis antigen,antigène de la polio inactivé,398102009,Poliomyelitis,poliomyélite
+7481000087104,Adacel®-Polio (Tdap-IPV),Adacel®-Polio (dcaT-VPI),8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+7581000087103,Agriflu® (Inf),Agriflu® (Inf),260210008,Influenza virus antigen,antigène du virus influenza,6142004,Influenza,influenza
+6851000087107,Avaxim® (HA),Avaxim® (HA),19341000087105,Hepatitis A antigen regular strength,antigène de l'hépatite A formulation régulière,40468003,Hepatitis A,hépatite A
+6861000087105,Avaxim® pediatric (HA),Avaxim® pediatric (HA),19451000087104,Hepatitis A antigen pediatric strength,antigène de l'hépatite A formulation pédiatrique,40468003,Hepatitis A,hépatite A
+7021000087108,Freeze-dried Glutamate BCG Vaccine Japan (BCG),Freeze-dried Glutamate BCG Vaccine Japan (BCG),718280005,Bacillus Calmette-Guerin antigen,antigène de Mycobacterium tuberculosis,56717001,Tuberculosis,tuberculose
+7011000087100,BCG Vaccine (BCG),BCG Vaccine (BCG),718280005,Bacillus Calmette-Guerin antigen,antigène de Mycobacterium tuberculosis,56717001,Tuberculosis,tuberculose
+19311000087109,BEXSERO® (Men-B),BEXSERO® (Men-B),121080001,Meningococcal group B antigen,antigène du méningocoque du sérogroupe B,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+7441000087109,Boostrix® (Tdap),Boostrix® (dcaT),8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+7441000087109,Boostrix® (Tdap),Boostrix® (dcaT),8611000087105,Diphtheria toxoid low dose,anatoxine diphtérique dose réduite,397428000,Diphtheria,diphtérie
+7441000087109,Boostrix® (Tdap),Boostrix® (dcaT),8591000087100,Acellular pertussis antigen low dose,antigène coquelucheux acellulaire dose réduite,27836007,Pertussis,coqueluche
+7491000087102,Boostrix®-Polio (Tdap-IPV),Boostrix®-Polio (dcaT-VPI),8611000087105,Diphtheria toxoid low dose,anatoxine diphtérique dose réduite,397428000,Diphtheria,diphtérie
+7491000087102,Boostrix®-Polio (Tdap-IPV),Boostrix®-Polio (dcaT-VPI),8591000087100,Acellular pertussis antigen low dose,antigène coquelucheux acellulaire dose réduite,27836007,Pertussis,coqueluche
+7491000087102,Boostrix®-Polio (Tdap-IPV),Boostrix®-Polio (dcaT-VPI),8301000087103,Inactivated poliomyelitis antigen,antigène de la polio inactivé,398102009,Poliomyelitis,poliomyélite
+7491000087102,Boostrix®-Polio (Tdap-IPV),Boostrix®-Polio (dcaT-VPI),8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+7341000087101,Cervarix® (HPV-2),Cervarix® (VPH-2),7791000087109,,,240532009,Human papilloma virus infection,infection par le virus du papillome humain
+7401000087106,Dukoral® (Chol-Ecol-O),Dukoral® (Chol-Ecol-O),709157005,Cholera antigen,antigène du choléra,63650001,Cholera,choléra
+6921000087107,Engerix® B pediatric (HB),Engerix® B pediatric (HB),19381000087100,Hepatitis B antigen pediatric strength,antigène de l'hépatite B formulation pédiatrique,66071002,Hepatitis B,hépatite B
+6911000087104,Engerix® B (HB),Engerix® B (HB),8731000087107,Hepatitis B antigen regular strength,antigène de l'hépatite B formulation régulière,66071002,Hepatitis B,hépatite B
+9851000087104,Epaxal Berna® (HA),Epaxal Berna® (HA),19341000087105,Hepatitis A antigen regular strength,antigène de l'hépatite A formulation régulière,40468003,Hepatitis A,hépatite A
+20811000087102,FLULAVAL® TETRA (Inf),FLULAVAL® TETRA (Inf),260210008,Influenza virus antigen,antigène du virus influenza,6142004,Influenza,influenza
+20741000087105,FLUMIST® QUADRIVALENT (LAIV),FLUMIST® QUADRIVALENT (VVAI),260210008,Influenza virus antigen,antigène du virus influenza,6142004,Influenza,influenza
+20691000087107,FLUZONE® Quadrivalent (Inf),FLUZONE® Quadrivalent (Inf),260210008,Influenza virus antigen,antigène du virus influenza,6142004,Influenza,influenza
+7211000087109,FSME-IMMUN (TBE),FSME-IMMUN (ET),8351000087102,Tick-borne encephalitis antigen,antigène du virus de l'encéphalite à tiques,712986001,Tickborne encephalitis,encéphalite à tiques
+7591000087101,Fluad® (Inf),Fluad® (Inf),260210008,Influenza virus antigen,antigène du virus influenza,6142004,Influenza,influenza
+7571000087100,Flumist® (trivalent) (LAIV)),Flumist® (trivalent) (VVAI),260210008,Influenza virus antigen,antigène du virus influenza,6142004,Influenza,influenza
+7541000087108,Fluviral® (Inf),Fluviral® (Inf),260210008,Influenza virus antigen,antigène du virus influenza,6142004,Influenza,influenza
+8651000087109,Fluzone® (trivalent) (Inf),Fluzone® (trivalent) (Inf),260210008,Influenza virus antigen,antigène du virus influenza,6142004,Influenza,influenza
+7351000087103,Gardasil® (HPV-4),Gardasil® (VPH-4),7801000087108,,,240532009,Human papilloma virus infection,infection par le virus du papillome humain
+20871000087109,Gardasil® 9 (HPV-9),Gardasil® 9 (VPH-9),20861000087100,,,240532009,Human papilloma virus infection,infection par le virus du papillome humain
+6871000087101,Havrix® 1440 (HA),Havrix® 1440 (HA),19341000087105,Hepatitis A antigen regular strength,antigène de l'hépatite A formulation régulière,40468003,Hepatitis A,hépatite A
+6881000087104,Havrix® 720 Junior (HA),Havrix® 720 Junior (HA),19451000087104,Hepatitis A antigen pediatric strength,antigène de l'hépatite A formulation pédiatrique,40468003,Hepatitis A,hépatite A
+7041000087104,Hiberix® (Hib),Hiberix® (Hib),120975003,Haemophilus influenzae type B antigen,antigène d'Haemophilus influenzae type B,406583002,"Haemophilus influenzae infection, invasive",infection invasive à Haemophilus influenzae
+7361000087100,Imovax® Polio (IPV),Imovax® Polio (VPI),8301000087103,Inactivated poliomyelitis antigen,antigène de la polio inactivé,398102009,Poliomyelitis,poliomyélite
+7381000087106,Imovax® Rabies (Rab),Imovax® Rabies (Rage),120980007,Rabies virus antigen,antigène du virus de la rage,14168008,Rabies,rage
+7451000087107,Infanrix® hexa (DTaP-HB-IPV-Hib),Infanrix® hexa (DCaT-HB-VPI-Hib),8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+7451000087107,Infanrix® hexa (DTaP-HB-IPV-Hib),Infanrix® hexa (DCaT-HB-VPI-Hib),8601000087108,Acellular pertussis antigen standard dose,antigène coquelucheux acellulaire dose standard,27836007,Pertussis,coqueluche
+7451000087107,Infanrix® hexa (DTaP-HB-IPV-Hib),Infanrix® hexa (DCaT-HB-VPI-Hib),19381000087100,Hepatitis B antigen pediatric strength,antigène de l'hépatite B formulation pédiatrique,66071002,Hepatitis B,hépatite B
+7451000087107,Infanrix® hexa (DTaP-HB-IPV-Hib),Infanrix® hexa (DCaT-HB-VPI-Hib),8301000087103,Inactivated poliomyelitis antigen,antigène de la polio inactivé,398102009,Poliomyelitis,poliomyélite
+7451000087107,Infanrix® hexa (DTaP-HB-IPV-Hib),Infanrix® hexa (DCaT-HB-VPI-Hib),120975003,Haemophilus influenzae type B antigen,antigène d'Haemophilus influenzae type B,406583002,"Haemophilus influenzae infection, invasive",infection invasive à Haemophilus influenzae
+7451000087107,Infanrix® hexa (DTaP-HB-IPV-Hib),Infanrix® hexa (DCaT-HB-VPI-Hib),8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+7461000087105,Infanrix®-IPV (DTaP-IPV),Infanrix®-IPV (DCaT-VPI),8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+7461000087105,Infanrix®-IPV (DTaP-IPV),Infanrix®-IPV (DCaT-VPI),8601000087108,Acellular pertussis antigen standard dose,antigène coquelucheux acellulaire dose standard,27836007,Pertussis,coqueluche
+7461000087105,Infanrix®-IPV (DTaP-IPV),Infanrix®-IPV (DCaT-VPI),8301000087103,Inactivated poliomyelitis antigen,antigène de la polio inactivé,398102009,Poliomyelitis,poliomyélite
+7461000087105,Infanrix®-IPV (DTaP-IPV),Infanrix®-IPV (DCaT-VPI),8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+7501000087105,Infanrix®-IPV/Hib (DTaP-IPV-Hib),Infanrix®-IPV/Hib (DCaT-VPI-Hib),8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+7501000087105,Infanrix®-IPV/Hib (DTaP-IPV-Hib),Infanrix®-IPV/Hib (DCaT-VPI-Hib),8601000087108,Acellular pertussis antigen standard dose,antigène coquelucheux acellulaire dose standard,27836007,Pertussis,coqueluche
+7501000087105,Infanrix®-IPV/Hib (DTaP-IPV-Hib),Infanrix®-IPV/Hib (DCaT-VPI-Hib),8301000087103,Inactivated poliomyelitis antigen,antigène de la polio inactivé,398102009,Poliomyelitis,poliomyélite
+7501000087105,Infanrix®-IPV/Hib (DTaP-IPV-Hib),Infanrix®-IPV/Hib (DCaT-VPI-Hib),120975003,Haemophilus influenzae type B antigen,antigène d'Haemophilus influenzae type B,406583002,"Haemophilus influenzae infection, invasive",infection invasive à Haemophilus influenzae
+7501000087105,Infanrix®-IPV/Hib (DTaP-IPV-Hib),Infanrix®-IPV/Hib (DCaT-VPI-Hib),8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+7621000087103,Influvac® (Inf),Influvac® (Inf),260210008,Influenza virus antigen,antigène du virus influenza,6142004,Influenza,influenza
+7611000087106,Intanza® 15 micrograms (Inf),Intanza® 15 micrograms (Inf),260210008,Influenza virus antigen,antigène du virus influenza,6142004,Influenza,influenza
+7601000087109,Intanza® 9 micrograms (Inf),Intanza® 9 micrograms (Inf),260210008,Influenza virus antigen,antigène du virus influenza,6142004,Influenza,influenza
+7151000087100,IXIARO (JE),IXIARO (EJ),121027000,Japanese encephalitis virus antigen,antigène du virus de l'encéphalite japonaise,52947006,"Encephalitis, Japanese",encéphalite japonaise
+7051000087101,Liquid PedvaxHib® (Hib),Liquid PedvaxHib® (Hib),120975003,Haemophilus influenzae type B antigen,antigène d'Haemophilus influenzae type B,406583002,"Haemophilus influenzae infection, invasive",infection invasive à Haemophilus influenzae
+7161000087102,M-M-R® II (MMR),M-M-R® II (RRO),121087003,Mumps virus antigen,antigène du virus des oreillons,36989005,Mumps,oreillons
+7161000087102,M-M-R® II (MMR),M-M-R® II (RRO),120998006,Rubella virus antigen,antigène du virus de la rubéole,36653000,Rubella,rubéole
+7131000087109,Menactra® (Men-C-ACYW-135),Menactra® (Men-C-ACYW-135),7121000087107,,,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+7061000087103,Meningitec® (Men-C-C),Meningitec® (Men-C-C),716266006,Meningococcal conjugate group C antigen,antigène du méningocoque conjugué du sérogroupe C,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+7071000087107,MENJUGATE® (Men-C-C),MENJUGATE® (Men-C-C),716266006,Meningococcal conjugate group C antigen,antigène du méningocoque conjugué du sérogroupe C,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+7111000087104,Menomune®-A/C/Y/W-135 (Men-P-ACYW-135),Menomune®-A/C/Y/W-135 (Men-P-ACYW-135),7101000087101,,,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+7141000087103,Menveo® (Men-C-ACYW-135),Menveo® (Men-C-ACYW-135),7121000087107,,,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+7081000087109,NeisVac-C® (Men-C-C),NeisVac-C® (Men-C-C),716266006,Meningococcal conjugate group C antigen,antigène du méningocoque conjugué du sérogroupe C,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+19351000087108,Nimenrix® (Men-C-ACYW-135),Nimenrix® (Men-C-ACYW-135),7121000087107,,,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+20841000087101,PEDIARIX® (DTaP-HB-IPV),PEDIARIX® (DCaT-HB-VPI),8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+20841000087101,PEDIARIX® (DTaP-HB-IPV),PEDIARIX® (DCaT-HB-VPI),8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+20841000087101,PEDIARIX® (DTaP-HB-IPV),PEDIARIX® (DCaT-HB-VPI),8601000087108,Acellular pertussis antigen standard dose,antigène coquelucheux acellulaire dose standard,27836007,Pertussis,coqueluche
+20841000087101,PEDIARIX® (DTaP-HB-IPV),PEDIARIX® (DCaT-HB-VPI),19381000087100,Hepatitis B antigen pediatric strength,antigène de l'hépatite B formulation pédiatrique,66071002,Hepatitis B,hépatite B
+20841000087101,PEDIARIX® (DTaP-HB-IPV),PEDIARIX® (DCaT-HB-VPI),8301000087103,Inactivated poliomyelitis antigen,antigène de la polio inactivé,398102009,Poliomyelitis,poliomyélite
+7521000087104,Pediacel® (DTaP-IPV-Hib),Pediacel® (DCaT-VPI-Hib),8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+7521000087104,Pediacel® (DTaP-IPV-Hib),Pediacel® (DCaT-VPI-Hib),8601000087108,Acellular pertussis antigen standard dose,antigène coquelucheux acellulaire dose standard,27836007,Pertussis,coqueluche
+7521000087104,Pediacel® (DTaP-IPV-Hib),Pediacel® (DCaT-VPI-Hib),8301000087103,Inactivated poliomyelitis antigen,antigène de la polio inactivé,398102009,Poliomyelitis,poliomyélite
+7521000087104,Pediacel® (DTaP-IPV-Hib),Pediacel® (DCaT-VPI-Hib),120975003,Haemophilus influenzae type B antigen,antigène d'Haemophilus influenzae type B,406583002,"Haemophilus influenzae infection, invasive",infection invasive à Haemophilus influenzae
+7521000087104,Pediacel® (DTaP-IPV-Hib),Pediacel® (DCaT-VPI-Hib),8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+7511000087107,Pentacel® (DTaP-IPV-Hib),Pentacel® (DCaT-VPI-Hib),8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+7511000087107,Pentacel® (DTaP-IPV-Hib),Pentacel® (DCaT-VPI-Hib),8601000087108,Acellular pertussis antigen standard dose,antigène coquelucheux acellulaire dose standard,27836007,Pertussis,coqueluche
+7511000087107,Pentacel® (DTaP-IPV-Hib),Pentacel® (DCaT-VPI-Hib),8301000087103,Inactivated poliomyelitis antigen,antigène de la polio inactivé,398102009,Poliomyelitis,poliomyélite
+7511000087107,Pentacel® (DTaP-IPV-Hib),Pentacel® (DCaT-VPI-Hib),120975003,Haemophilus influenzae type B antigen,antigène d'Haemophilus influenzae type B,406583002,"Haemophilus influenzae infection, invasive",infection invasive à Haemophilus influenzae
+7511000087107,Pentacel® (DTaP-IPV-Hib),Pentacel® (DCaT-VPI-Hib),8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+7631000087101,Pneumo® 23 (Pneu-P-23),Pneumo® 23 (Pneu-P-23),115578007,Pneumococcal polysaccharide antigen,antigène polysaccharidique du pneumocoque,16814004,Pneumococcal disease,infection pneumococcique
+7641000087107,Pneumovax® 23 (Pneu-P-23),Pneumovax® 23 (Pneu-P-23),115578007,Pneumococcal polysaccharide antigen,antigène polysaccharidique du pneumocoque,16814004,Pneumococcal disease,infection pneumococcique
+7681000087102,Prevnar® 13 (Pneu-C-13),Prevnar® 13 (Pneu-C-13),714078004,Pneumococcal conjugate antigen,antigène du pneumocoque conjugué,16814004,Pneumococcal disease,infection pneumococcique
+7651000087105,Prevnar® (Pneu-C-7),Prevnar® (Pneu-C-7),714078004,Pneumococcal conjugate antigen,antigène du pneumocoque conjugué,16814004,Pneumococcal disease,infection pneumococcique
+7171000087106,Priorix® (MMR),Priorix® (RRO),121087003,Mumps virus antigen,antigène du virus des oreillons,36989005,Mumps,oreillons
+7171000087106,Priorix® (MMR),Priorix® (RRO),120998006,Rubella virus antigen,antigène du virus de la rubéole,36653000,Rubella,rubéole
+7181000087108,Priorix-Tetra® (MMR-Var),Priorix-Tetra® (RRO-Var),121087003,Mumps virus antigen,antigène du virus des oreillons,36989005,Mumps,oreillons
+7181000087108,Priorix-Tetra® (MMR-Var),Priorix-Tetra® (RRO-Var),120998006,Rubella virus antigen,antigène du virus de la rubéole,36653000,Rubella,rubéole
+19441000087102,ProQuad® (MMR-Var),ProQuad® (RRO-Var),121087003,Mumps virus antigen,antigène du virus des oreillons,36989005,Mumps,oreillons
+19441000087102,ProQuad® (MMR-Var),ProQuad® (RRO-Var),120998006,Rubella virus antigen,antigène du virus de la rubéole,36653000,Rubella,rubéole
+7471000087101,Quadracel® (DTaP-IPV),Quadracel® (DCaT-VPI),8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+7471000087101,Quadracel® (DTaP-IPV),Quadracel® (DCaT-VPI),8601000087108,Acellular pertussis antigen standard dose,antigène coquelucheux acellulaire dose standard,27836007,Pertussis,coqueluche
+7471000087101,Quadracel® (DTaP-IPV),Quadracel® (DCaT-VPI),8301000087103,Inactivated poliomyelitis antigen,antigène de la polio inactivé,398102009,Poliomyelitis,poliomyélite
+7471000087101,Quadracel® (DTaP-IPV),Quadracel® (DCaT-VPI),8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+7391000087108,RabAvert® (Rab),RabAvert® (Rage),120980007,Rabies virus antigen,antigène du virus de la rage,14168008,Rabies,rage
+6951000087100,Recombivax HB® (HB),Recombivax HB® (HB),8731000087107,Hepatitis B antigen regular strength,antigène de l'hépatite B formulation régulière,66071002,Hepatitis B,hépatite B
+6941000087103,Recombivax HB® dialysis strength (HB),Recombivax HB® dialysis strength (HB),8741000087101,Hepatitis B antigen dialysis strength,antigène de l'hépatite B formulation pour dialyse,66071002,Hepatitis B,hépatite B
+6931000087109,Recombivax HB® pediatric (HB),Recombivax HB® pediatric (HB),19381000087100,Hepatitis B antigen pediatric strength,antigène de l'hépatite B formulation pédiatrique,66071002,Hepatitis B,hépatite B
+7671000087104,Synflorix® (Pneu-C-10),Synflorix® (Pneu-C-10),714078004,Pneumococcal conjugate antigen,antigène du pneumocoque conjugué,16814004,Pneumococcal disease,infection pneumococcique
+6961000087102,Twinrix® Junior (HAHB),Twinrix® Junior (HAHB),19451000087104,Hepatitis A antigen pediatric strength,antigène de l'hépatite A formulation pédiatrique,40468003,Hepatitis A,hépatite A
+6961000087102,Twinrix® Junior (HAHB),Twinrix® Junior (HAHB),19381000087100,Hepatitis B antigen pediatric strength,antigène de l'hépatite B formulation pédiatrique,66071002,Hepatitis B,hépatite B
+6971000087106,Twinrix® (HAHB),Twinrix® (HAHB),303233001,Hepatitis B antigen,antigène de l'hépatite B,66071002,Hepatitis B,hépatite B
+6971000087106,Twinrix® (HAHB),Twinrix® (HAHB),713618003,Hepatitis A antigen,antigène de l'hépatite A,40468003,Hepatitis A,hépatite A
+7301000087104,Typherix® (Typh-I),Typherix® (Typh-I),8471000087100,Vi polysaccharide typhoid antigen,antigène de la typhoïde polysaccharidique Vi,4834000,Typhoid fever,fièvre typhoïde
+7311000087102,Typhim Vi® (Typh-I),Typhim Vi® (Typh-I),8471000087100,Vi polysaccharide typhoid antigen,antigène de la typhoïde polysaccharidique Vi,4834000,Typhoid fever,fièvre typhoïde
+6891000087102,Vaqta® pediatric (HA),Vaqta® pediatric (HA),19451000087104,Hepatitis A antigen pediatric strength,antigène de l'hépatite A formulation pédiatrique,40468003,Hepatitis A,hépatite A
+6901000087101,Vaqta® (HA),Vaqta® (HA),19341000087105,Hepatitis A antigen regular strength,antigène de l'hépatite A formulation régulière,40468003,Hepatitis A,hépatite A
+7561000087109,Vaxigrip® (Inf),Vaxigrip® (Inf),260210008,Influenza virus antigen,antigène du virus influenza,6142004,Influenza,influenza
+7331000087107,Vivaxim® (HA-Typh-I),Vivaxim® (HA-Typh-I),8471000087100,Vi polysaccharide typhoid antigen,antigène de la typhoïde polysaccharidique Vi,4834000,Typhoid fever,fièvre typhoïde
+7331000087107,Vivaxim® (HA-Typh-I),Vivaxim® (HA-Typh-I),19341000087105,Hepatitis A antigen regular strength,antigène de l'hépatite A formulation régulière,40468003,Hepatitis A,hépatite A
+7321000087105,Vivotif® (Typh-O),Vivotif® (Typh-O),8461000087109,Typhoid live attenuated Ty21a antigen,antigène de la typhoïde vivant Ty21a,4834000,Typhoid fever,fièvre typhoïde
+19291000087108,Xanaflu® (Inf),Xanaflu® (Inf),260210008,Influenza virus antigen,antigène du virus influenza,6142004,Influenza,influenza
+7221000087101,YF-Vax® (YF),YF-Vax® (FJ),713629004,Yellow fever antigen,antigène du virus de la fièvre jaune,16541001,Yellow fever,fièvre jaune
+7411000087108,Zostavax® (Zos),Zostavax® (Zos),260214004,Varicella-zoster virus antigen,antigène du virus varicella-zoster,4740000,Shingles,zona
+19321000087101,Zostavax® II (Zos),Zostavax® II (Zos),260214004,Varicella-zoster virus antigen,antigène du virus varicella-zoster,4740000,Shingles,zona
+21671000087103,BEXSERO® (Men-B),BEXSERO® (Men-B),121080001,Meningococcal group B antigen,antigène du méningocoque du sérogroupe B,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+21931000087105,FLUZONE® High-Dose (Inf),FLUZONE® High-Dose (Inf),260210008,Influenza virus antigen,antigène du virus influenza,6142004,Influenza,influenza
+22681000087109,Influvac® (Inf),Influvac® (Inf),260210008,Influenza virus antigen,antigène du virus influenza,6142004,Influenza,influenza
+21771000087109,IXIARO (JE),IXIARO (EJ),121027000,Japanese encephalitis virus antigen,antigène du virus de l'encéphalite japonaise,52947006,"Encephalitis, Japanese",encéphalite japonaise
+22691000087106,KINRIX® (DTaP-IPV),KINRIX® (DCaT-VPI),8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+22691000087106,KINRIX® (DTaP-IPV),KINRIX® (DCaT-VPI),8601000087108,Acellular pertussis antigen standard dose,antigène coquelucheux acellulaire dose standard,27836007,Pertussis,coqueluche
+22691000087106,KINRIX® (DTaP-IPV),KINRIX® (DCaT-VPI),8301000087103,Inactivated poliomyelitis antigen,antigène de la polio inactivé,398102009,Poliomyelitis,poliomyélite
+22691000087106,KINRIX® (DTaP-IPV),KINRIX® (DCaT-VPI),8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+21701000087104,MENJUGATE® (Men-C-C),MENJUGATE® (Men-C-C),716266006,Meningococcal conjugate group C antigen,antigène du méningocoque conjugué du sérogroupe C,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+21691000087104,MENJUGATE® Liquid(Men-C-C),MENJUGATE® liquid (Men-C-C),716266006,Meningococcal conjugate group C antigen,antigène du méningocoque conjugué du sérogroupe C,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+21681000087101,Menveo® (Men-C-ACYW-135),Menveo® (Men-C-ACYW-135),7121000087107,,,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+21781000087106,Nimenrix® (Men-C-ACYW-135),Nimenrix® (Men-C-ACYW-135),7121000087107,,,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+22181000087103,PENTAVAC® (DPT-HB-Hib),PENTAVAC® (DCT-HB-Hib),8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+22181000087103,PENTAVAC® (DPT-HB-Hib),PENTAVAC® (DCT-HB-Hib),8631000087100,Pertussis antigen standard dose,antigène coquelucheux dose standard,27836007,Pertussis,coqueluche
+22181000087103,PENTAVAC® (DPT-HB-Hib),PENTAVAC® (DCT-HB-Hib),8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+22181000087103,PENTAVAC® (DPT-HB-Hib),PENTAVAC® (DCT-HB-Hib),19381000087100,Hepatitis B antigen pediatric strength,antigène de l'hépatite B formulation pédiatrique,66071002,Hepatitis B,hépatite B
+22181000087103,PENTAVAC® (DPT-HB-Hib),PENTAVAC® (DCT-HB-Hib),120975003,Haemophilus influenzae type B antigen,antigène d'Haemophilus influenzae type B,406583002,"Haemophilus influenzae infection, invasive",infection invasive à Haemophilus influenzae
+21711000087102,RabAvert® (Rab),RabAvert® (Rage),120980007,Rabies virus antigen,antigène du virus de la rage,14168008,Rabies,rage
+23011000087103,SHINGRIX (Zos),SHINGRIX (Zos),260214004,Varicella-zoster virus antigen,antigène du virus varicella-zoster,4740000,Shingles,zona
+23031000087108,Trumenba® (Men-B),Trumenba® (Men-B),121080001,Meningococcal group B antigen,antigène du méningocoque du sérogroupe B,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+9821000087106,JE-VAX® (JE),JE-VAX® (EJ),121027000,Japanese encephalitis virus antigen,antigène du virus de l'encéphalite japonaise,52947006,"Encephalitis, Japanese",encéphalite japonaise
+20851000087103,MENHIBRIX® (Men-C-CY-Hib),MENHIBRIX® (Men-C-CY-Hib),21901000087102,,,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+20851000087103,MENHIBRIX® (Men-C-CY-Hib),MENHIBRIX® (Men-C-CY-Hib),120975003,Haemophilus influenzae type B antigen,antigène d'Haemophilus influenzae type B,406583002,"Haemophilus influenzae infection, invasive",infection invasive à Haemophilus influenzae
+22971000087103,AGRIFLU® (Inf),AGRIFLU® (Inf),260210008,Influenza virus antigen,antigène du virus influenza,6142004,Influenza,influenza
+22981000087101,FLUAD® (Inf),FLUAD® (Inf),260210008,Influenza virus antigen,antigène du virus influenza,6142004,Influenza,influenza
+23711000087101,ACTacel® (DTaP-Hib),ACTacel® (DCaT-Hib),8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+23711000087101,ACTacel® (DTaP-Hib),ACTacel® (DCaT-Hib),8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+23711000087101,ACTacel® (DTaP-Hib),ACTacel® (DCaT-Hib),8601000087108,Acellular pertussis antigen standard dose,antigène coquelucheux acellulaire dose standard,27836007,Pertussis,coqueluche
+23711000087101,ACTacel® (DTaP-Hib),ACTacel® (DCaT-Hib),120975003,Haemophilus influenzae type B antigen,antigène d'Haemophilus influenzae type B,406583002,"Haemophilus influenzae infection, invasive",infection invasive à Haemophilus influenzae
+23691000087103,Tritanrix® (DTwP-HB),Tritanrix® (DTCPT-HB),8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+23691000087103,Tritanrix® (DTwP-HB),Tritanrix® (DTCPT-HB),8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+23691000087103,Tritanrix® (DTwP-HB),Tritanrix® (DTCPT-HB),714076000,Whole cell pertussis antigen,antigène coquelucheux à germes entiers,27836007,Pertussis,coqueluche
+23691000087103,Tritanrix® (DTwP-HB),Tritanrix® (DTCPT-HB),19381000087100,Hepatitis B antigen pediatric strength,antigène de l'hépatite B formulation pédiatrique,66071002,Hepatitis B,hépatite B
+23721000087109,TETRAVAC-ACELLULAIRE® (DTaP-IPV),TETRAVAC-ACELLULAIRE® (DCaT-VPI),8621000087102,Diphtheria toxoid standard dose,anatoxine diphtérique dose standard,397428000,Diphtheria,diphtérie
+23721000087109,TETRAVAC-ACELLULAIRE® (DTaP-IPV),TETRAVAC-ACELLULAIRE® (DCaT-VPI),8601000087108,Acellular pertussis antigen standard dose,antigène coquelucheux acellulaire dose standard,27836007,Pertussis,coqueluche
+23721000087109,TETRAVAC-ACELLULAIRE® (DTaP-IPV),TETRAVAC-ACELLULAIRE® (DCaT-VPI),8301000087103,Inactivated poliomyelitis antigen,antigène de la polio inactivé,398102009,Poliomyelitis,poliomyélite
+23721000087109,TETRAVAC-ACELLULAIRE® (DTaP-IPV),TETRAVAC-ACELLULAIRE® (DCaT-VPI),8451000087106,Tetanus toxoid,anatoxine tétanique,76902006,Tetanus,tétanos
+23771000087108,COMVAX® (Hib-HB),COMVAX® (Hib-HB),120975003,Haemophilus influenzae type B antigen,antigène d'Haemophilus influenzae type B,406583002,"Haemophilus influenzae infection, invasive",infection invasive à Haemophilus influenzae
+23771000087108,COMVAX® (Hib-HB),COMVAX® (Hib-HB),19381000087100,Hepatitis B antigen pediatric strength,antigène de l'hépatite B formulation pédiatrique,66071002,Hepatitis B,hépatite B
+21891000087103,NeisVac-C® (Men-C-C),NeisVac-C® (Men-C-C),716266006,Meningococcal conjugate group C antigen,antigène du méningocoque conjugué du sérogroupe C,23511006,Meningococcal disease,maladie infectieuse à méningocoques
+24201000087108,Dukoral® (Chol-Ecol-O),Dukoral® (Chol-Ecol-O),709157005,Cholera antigen,antigène du choléra,63650001,Cholera,choléra
+24211000087105,Vivotif® (Typh-O),Vivotif® (Typh-O),8461000087109,Typhoid live attenuated Ty21a antigen,antigène de la typhoïde vivant Ty21a,4834000,Typhoid fever,fièvre typhoïde
+19421000087106,BabyBIG® (BIG-IV),BabyBIG® (BIG-IV),385336006,Botulism antitoxin,Botulism antitoxin,414531002,Intoxication with Clostridium botulinum toxin,botulisme
+21941000087104,BAT® (BAtx),BAT® (AtxB),385336006,Botulism antitoxin,Botulism antitoxin,414531002,Intoxication with Clostridium botulinum toxin,botulisme
+19361000087106,Botulism Antitoxin Behring® (BAtx),Botulism Antitoxin Behring®(AtxB),385336006,Botulism antitoxin,Botulism antitoxin,414531002,Intoxication with Clostridium botulinum toxin,botulisme
+19331000087104,Cytogam® (CMVIg),Cytogam® (CMVIg),120941004,Cytomegalovirus immunoglobulin,Cytomegalovirus immunoglobulin,28944009,Cytomegalovirus disease,infection à cytomégalovirus
+19431000087108,Diphtheria antitoxin® (Datx),Diphtheria antitoxin® (AtxD),412175006,Diphtheria antitoxin,Diphtheria antitoxin,397428000,Diphtheria,diphtérie
+19301000087107,Diphtheria Antitoxin B.P. ® (DAtx),Diphtheria Antitoxin B.P. ® (AtxD),412175006,Diphtheria antitoxin,Diphtheria antitoxin,397428000,Diphtheria,diphtérie
+19391000087103,GamaSTAN® (Ig),GamaSTAN® (Ig),420084002,Immune globulin,Immune globulin,14189004,Measles,rougeole
+7941000087100,HepaGam B® (HBIg),HepaGam B® (HBIg),418747006,Hepatitis B immunoglobulin,Hepatitis B immunoglobulin,66071002,Hepatitis B,hépatite B
+7951000087102,HyperHEP B® (HBIg),HyperHEP B® (HBIg),418747006,Hepatitis B immunoglobulin,Hepatitis B immunoglobulin,66071002,Hepatitis B,hépatite B
+7961000087104,HYPERRAB® (RabIg),HYPERRAB® (RabIg),422303009,Rabies immunoglobulin,Rabies immunoglobulin,14168008,Rabies,rage
+7981000087105,HYPERTET® (Tig),HYPERTET® (Tig),428527002,Tetanus immunoglobulin,Tetanus immunoglobulin,76902006,Tetanus,tétanos
+19471000087105,IMMUNE SERUM GLOBULIN® (Ig),IMMUNE SERUM GLOBULIN® (Ig),420084002,Immune globulin,Immune globulin,14189004,Measles,rougeole
+7971000087108,IMOGAM® (RabIg),IMOGAM® (RIg),422303009,Rabies immunoglobulin,Rabies immunoglobulin,14168008,Rabies,rage
+19411000087103,SYNAGIS® (RVSAb),SYNAGIS® (RSVAb),386900007,Respiratory syncytial virus monoclonal antibody,Respiratory syncytial virus monoclonal antibody,55735004,Respiratory syncytial virus infection,virus respiratoire syncytial
+7991000087107,VariZIG® (VarIg),VariZIG® (VarIg),259858000,Varicella immunoglobulin,Varicella immunoglobulin,38907003,Varicella,varicelle
