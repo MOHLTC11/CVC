@@ -1,4 +1,0 @@
-Concept Code,Concept Name,Display Name (en),Display Name (fr),Status,Definition,Last Updated
-223366009,Healthcare professional (occupation),Health care provider,professionnel de la santé,active,"Immunization record information provided by a health care provider, in any form (e.g., verbal, electronic, official record, other)",18/07/2019
-116154003,Patient (person),Client,client,active,Immunization record information provided by Client/Parent/Guardian in the form of an official record.,18/07/2019
-423374008,Review of systems section (record artifact),System to system,système à système,active,"Immunization record information provided by a 3rd party electronic application to a Repository e.g EMR, Pharmacy system, CanImmunize, ICON public etc.",18/07/2019
