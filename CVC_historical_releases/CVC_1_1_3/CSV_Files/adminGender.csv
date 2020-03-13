@@ -1,0 +1,5 @@
+conceptId,fsn,displayTermEn,displayTermFr,status,definition,lastUpdated
+female,Female,Female,femme,active,Female,2019-07-18
+male,Male,Male,homme,active,Male,2019-07-18
+other,Other,Other,autre,active,Other - used for messaging only,2019-07-18
+unknown,Unknown,Unknown,inconnu,active,Unknown - the gender of the client is not known; required for FHIR specifications,2019-07-18

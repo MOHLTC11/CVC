@@ -1,0 +1,8 @@
+conceptId,fsn,displayTermEn,displayTermFr,status,definition,lastUpdated
+marketed,Marketed,Marketed,Marketed,active,Licensed by Health Canada - products that can be administered at POS – “on the shelves”,2019-07-18
+approved,Approved,Approved,Approved,active,"License issued by Health Canada - market authorization holder has not made the product available in Canada - not ""on the shelves"" in Canada",2019-07-18
+dormant,Dormant,Dormant,Dormant,active,Licensed by Health Canada – product name used for immunization history - not “on the shelves”,2019-11-07
+cancelled,Cancelled,Cancelled,Cancelled,active,"Previously licensed by Health Canada but cancelled - not ""on the shelves""",2019-07-18
+sap,Special Access,Special Access,Special Access,active,Made available through the SAP program – products that may be administered at POS  (on the shelf) or historical (not on shelf).,2019-07-18
+international,International,International,International,active,Products that have not been available for use in Canada; product name used for history  - not “on the shelves” in Canada,2019-11-07
+deprecated,Deprecated,Deprecated,Deprecated,active,Concept should not be used - possibly entered in error,2019-07-18
